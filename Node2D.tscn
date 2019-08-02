@@ -15,7 +15,7 @@ extents = Vector2( 30, 10 )
 
 [node name="StaticBody2D" type="StaticBody2D" parent="YSort"]
 editor/display_folded = true
-position = Vector2( 115, 230 )
+position = Vector2( 91, 205 )
 __meta__ = {
 "_edit_group_": true
 }
@@ -29,7 +29,7 @@ shape = SubResource( 1 )
 
 [node name="StaticBody2D2" type="StaticBody2D" parent="YSort"]
 editor/display_folded = true
-position = Vector2( 371, 140 )
+position = Vector2( 237, 145 )
 __meta__ = {
 "_edit_group_": true
 }
@@ -43,7 +43,7 @@ shape = SubResource( 1 )
 
 [node name="KinematicBody2D" type="KinematicBody2D" parent="YSort"]
 editor/display_folded = true
-position = Vector2( 207, 127 )
+position = Vector2( 136, 98 )
 script = ExtResource( 2 )
 __meta__ = {
 "_edit_group_": true
